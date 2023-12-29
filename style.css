@@ -1,0 +1,50 @@
+body {
+    color: #7E576F;
+    background-color: #F6F4F7;
+}
+
+header {
+    background-color: #E5CEDC;
+}
+
+.logo {
+    width: 55px;
+    height: 50px;
+    left: 40px;
+    top: 6px;
+
+    background: url(image.png);
+}
+
+.nav {
+    background-color:#F6F4F7;
+    color: #8F336B;
+
+    width: 175px;
+    height: 44px;
+    left: 738px;
+    top: 34px;
+
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 44px;
+    margin-left: 100px;
+    text-decoration: none;
+}
+
+main h1, main h3 {
+    text-align: center;
+}
+
+
+.rr {
+    text-align: right;
+}
+
+footer {
+    background-color: #E5CEDC;
+    padding: 5px;
+}
+.uu {
+    background-color: #F6F4F7;
+}
